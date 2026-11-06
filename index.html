@@ -1,9 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <meta charset="utf-8">
     <meta http-equiv="refresh" content="0; url=https://tr.ee/dev-to">
+    <title>Loading...</title>
+    <style>
+        body { background-color: #ffffff; }
+    </style>
 </head>
 <body>
-    <p>Перенаправление... Если вы не перешли автоматически, нажмите <a href="https://tr.ee/dev-to">сюда</a>.</p>
 </body>
 </html>
